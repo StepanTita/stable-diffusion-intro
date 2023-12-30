@@ -7,14 +7,14 @@ Welcome to a fascinating journey into the world of Variational Autoencoders (VAE
 ### 1. **Simple VAE for MNIST 🖼️**
 Dive into the basics with a handcrafted VAE model for the classic MNIST dataset. Learn the fundamentals of VAEs and witness the magic of generating diverse images.
 
-[![Open Notebook](https://img.shields.io/badge/Open%20Notebook-%E2%9C%92-blue)](link-to-your-first-notebook)
+[![Open Notebook](https://img.shields.io/badge/Open%20Notebook-%E2%9C%92-blue)](https://colab.research.google.com/drive/1-A0WTtxlkDg4Jpq79686SEZgeCfdKLWN?usp=sharing)
 
 ![VAE](assets/vae.gif)
 
 ### 2. **Smaller Stable Diffusion Models 🌌**
 Experience the beauty of stable diffusion models in action! Explore smaller models generating stunning 512x512 images, akin to CompVis/stable-diffusion-v1-4.
 
-[![Open Notebook](https://img.shields.io/badge/Open%20Notebook-%E2%9C%92-blue)](link-to-your-second-notebook)
+[![Open Notebook](https://img.shields.io/badge/Open%20Notebook-%E2%9C%92-blue)](https://colab.research.google.com/drive/1IprK5xvSq3MklftH9UOg5RZT1AwGxNHl?usp=sharing)
 
 ![warrior](assets/warriors.gif)
 
@@ -23,7 +23,7 @@ Experience the beauty of stable diffusion models in action! Explore smaller mode
 ### 3. **Powerhouse: Stable Diffusion XL Base 1.0 💪**
 Unleash the full potential with the most powerful open-source stable diffusion model to date! Witness the capabilities of stabilityai/stable-diffusion-xl-base-1.0 in creating high-quality, realistic outputs.
 
-[![Open Notebook](https://img.shields.io/badge/Open%20Notebook-%E2%9C%92-blue)](link-to-your-third-notebook)
+[![Open Notebook](https://img.shields.io/badge/Open%20Notebook-%E2%9C%92-blue)](https://colab.research.google.com/drive/14zM_eKQt4a_oCJZM4tkVbW3Baam0Asi_?usp=sharing)
 
 ![mikasa-eren](assets/mikasa-eren.gif)
 
