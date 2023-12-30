@@ -27,6 +27,13 @@ Unleash the full potential with the most powerful open-source stable diffusion m
 
 ![mikasa-eren](assets/mikasa-eren.gif)
 
+## Demo:
+
+
+https://github.com/StepanTita/stable-diffusion-intro/assets/44279105/cd37b116-5f20-464c-b42d-9d6a9bcbf92e
+
+
+
 ### 🤖 Models:
 **Diffusion:**
 - [Stable Diffusion v1-5](https://huggingface.co/runwayml/stable-diffusion-v1-5)
